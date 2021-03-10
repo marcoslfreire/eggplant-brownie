@@ -5,6 +5,7 @@
 → Site oficial: https://git-scm.com/
 \
 → Instalação: https://git-scm.com/downloads
+Meu nome é Freire
 
 ##### Jogo para treinar ramificação do Git
 
