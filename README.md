@@ -2,7 +2,8 @@
 
 ##### Instalação
 
-→ Site oficial: https://git-scm.com/
+→ Site oficial do Git
+: https://git-scm.com/
 \
 → Instalação: https://git-scm.com/downloads
 
